@@ -1,4 +1,3 @@
 #!/bin/sh
 
-`./shell &`
-`./shell9006`
+`./shell`
